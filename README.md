@@ -18,5 +18,6 @@ cd qr-code-generator
 npm install
 npm install qrcode.react
 npm install html2canvas
+npm install react-router-dom
 npm run dev
 ```
